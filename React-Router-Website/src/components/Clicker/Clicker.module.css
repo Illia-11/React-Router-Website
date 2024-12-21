@@ -1,0 +1,10 @@
+.clicker {
+  font-size: 24px;
+  font-weight: bold;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 16px;
+  height: 40px;
+  align-items: center;
+}

@@ -1,0 +1,9 @@
+.footerContainer {
+  position: sticky;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: olivedrab;
+  text-align: center;
+  padding: 10px 0;
+}
